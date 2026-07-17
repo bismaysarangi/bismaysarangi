@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Bismay+Sarangi;Software+Engineer;Python+%7C+React+%7C+JavaScript;Building+clean%2C+functional+products" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Bismay%20Sarangi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://bismay-sarangi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-bismay--sarangi.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
@@ -34,7 +32,20 @@ class Bismay:
 ### `Tech Stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,docker,linux,vscode,figma,postman&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,docker,linux,vscode,figma,postman,aws&theme=dark&perline=10" />
+</div>
+
+<br/>
+
+### `GitHub Stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bismaysarangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bismaysarangi&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismaysarangi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
