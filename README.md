@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header" width="100%"/>
-
-```
-$ whoami
-> Bismay Sarangi
-
-$ role --current
-> Software Engineer
-
-$ status
-> shipping clean, functional code
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Bismay%20Sarangi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://bismay-sarangi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-bismay--sarangi.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
