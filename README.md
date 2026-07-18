@@ -37,19 +37,6 @@ class Bismay:
 
 <br/>
 
-### `GitHub Stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bismaysarangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bismaysarangi&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismaysarangi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
-
 ### `Connect With Me`
 
 <div align="center">
